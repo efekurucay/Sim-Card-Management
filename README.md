@@ -53,7 +53,7 @@ This is a desktop application designed to manage and track SIM card inventory. I
 ## Database Information
 
 *   **Database File:** `sim_kart_takip.db`
-*   **Location:**
+*   **Locatio n:  **   
     *   When running the executable: Located in `exe file/dist/`.
     *   When running from source: The script `sim.py` expects it in the same directory as the script by default. (Refer to "Installation and Usage" for notes on path adjustment).
 *   **Table Name:** `numaralar`
